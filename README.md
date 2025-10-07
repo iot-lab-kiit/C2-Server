@@ -80,7 +80,6 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 - **Project Maintainer**: [Bajinder17](https://github.com/Bajinder17)
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for general questions and ideas
-- **Email**: [Your Email] (for sensitive security-related communications)
 
 ## 🎃 Hacktoberfest Rules
 
