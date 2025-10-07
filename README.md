@@ -42,7 +42,7 @@ This C2 server project is designed as an educational tool and system administrat
 
 ### Installation
 ```bash
-git clone https://github.com/Bajinder17/c2-server.git
+git clone (https://github.com/iot-lab-kiit/C2-Server)
 cd c2-server
 pip install -r requirements.txt
 ```
@@ -80,32 +80,6 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 - **Project Maintainer**: [Bajinder17](https://github.com/Bajinder17)
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for general questions and ideas
-
-## 🎃 Hacktoberfest Rules
-
-This repository participates in **Hacktoberfest 2025**! To ensure quality contributions:
-
-### Valid Contributions Include:
-- ✅ Bug fixes with proper testing
-- ✅ New features that enhance functionality
-- ✅ Documentation improvements
-- ✅ Code optimization and refactoring
-- ✅ Security enhancements
-- ✅ UI/UX improvements
-
-### Invalid Contributions:
-- ❌ Spam pull requests
-- ❌ Minor text changes without value
-- ❌ Duplicate contributions
-- ❌ AI-generated content without review
-- ❌ Breaking changes without discussion
-
-### Quality Standards:
-- All PRs must pass code review
-- Include clear description of changes
-- Test your code before submitting
-- Follow existing code style and conventions
-- Reference related issues when applicable
 
 ## 👥 Maintainers
 
