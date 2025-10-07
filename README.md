@@ -42,7 +42,7 @@ This C2 server project is designed as an educational tool and system administrat
 
 ### Installation
 ```bash
-git clone (https://github.com/iot-lab-kiit/C2-Server)
+git clone https://github.com/iot-lab-kiit/C2-Server
 cd c2-server
 pip install -r requirements.txt
 ```
