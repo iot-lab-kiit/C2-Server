@@ -130,10 +130,6 @@ This project is designed for **educational purposes** and **legitimate system ad
 - Comply with all applicable laws and regulations
 - Implement proper security measures in production environments
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Show Your Support
 
 If you found this project helpful, please consider:
